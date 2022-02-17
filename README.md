@@ -1,9 +1,3 @@
-# AB_Testing_Analysis
-
-
-
-<img src="https://user-images.githubusercontent.com/38785783/138585739-45b7c95e-069c-4d58-a194-149eebf1492f.png" width="300" height="400" />
-
 # AB test Analysis
 
 
