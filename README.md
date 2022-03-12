@@ -22,5 +22,5 @@ A/B tests are very commonly performed by data analysts and data scientists. For 
 
 ### Results <a name="results"></a>
 
-1. After using different ways to test whether new page increases conversion, it seems as a conclusion for all of the ways that the new page failed to provide better performance/conversion than the old page, and therfore we **fail to reject the null hypothesis** which means we go with the old page.
+1. After using different ways to test whether new page increases conversion, it seems as a conclusion for all of the ways that the new page failed to provide better performance/conversion than the old page, and therfore we `fail to reject the null hypothesis` which means we go with the old page.
 2. I tried to use the data to build ML model to predict whether a customer will convert but it wasn't possible to achieve high performance using only the given data.
